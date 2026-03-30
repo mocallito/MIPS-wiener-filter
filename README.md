@@ -1,2 +1,2 @@
 # MIPS-wiener-filter
-MADE BY Tri Dao
+NOT MADE BY Tri Dao
